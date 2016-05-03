@@ -1,0 +1,13 @@
+{
+  "name": "immutable",
+  "version": "0.0.1",
+  "description": "immutable benchmark",
+  "devDependencies": {
+    "immutable": "3.8.1",
+    "antd": "2.1.0"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "4.2.3"
+  }
+}
