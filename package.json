@@ -4,7 +4,7 @@
   "description": "immutable benchmark",
   "devDependencies": {
     "immutable": "3.8.1",
-    "antd": "2.1.0"
+    "benchmark": "2.1.0"
   },
   "dependencies": {},
   "engines": {
