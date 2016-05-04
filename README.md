@@ -2,7 +2,8 @@
 
 
 ```
-mac air 13
+cpu: 1.8 GHz Intel Core i5
+内存: 4 GB 1600 MHz DDR3
 node 5.0.0
 ```
 
