@@ -9,14 +9,13 @@ var create = function (num) {
   return data;
 }
 
-var lens = [1, 1]
+var lens = [4, 100000]
 var map = {};
 for (var i = 0; i < lens[0]; i++) {
   map['key' + i] = create(lens[1])
 }
 
 immutableObj = Immutable.fromJS(map)
-
 
 var suite = new Benchmark.Suite;
 
